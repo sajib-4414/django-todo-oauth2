@@ -1,5 +1,7 @@
 # Todo App with Python 2.7, Oauth2
-Source from where help was taken: https://www.madewithtea.com/simple-todo-api-with-django-and-oauth2.html
+This project was done to learn about Django's Oath2 authentication. This was done as a boilerplate application to plug in this Oath2 feature in any Django Application quickly.
+
+Refernced tutorial: https://www.madewithtea.com/simple-todo-api-with-django-and-oauth2.html
 
 This project is done with ```python 2```
 
